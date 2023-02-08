@@ -1,0 +1,9 @@
+export const POST_ADDED = "POST_ADDED";
+export const POST_SELECTED = "POST_SELECTED";
+export const POST_DELETED = "POST_DELETED";
+export const SHOW_MESSAGE = "SHOW_MESSAGE";
+export const POST_SELECTED_FOR_DELTEING = "POST_SELECTED_FOR_DELTEING";
+export const POST_EDITED = "POST_EDITED";//
+export const DELETE_CANCELED = "DELETE_CANCELED";
+export const SAVE_EDIT = "SAVE_EDIT";
+export const EDIT_CANCELED = "EDIT_CANCELED";

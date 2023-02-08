@@ -1,0 +1,9 @@
+.div{
+    border:rgb(0, 0, 0) 2px solid;
+    width: 12vw;
+    height: 5vh;
+    margin-top: 2vh;
+    text-align: center;
+    cursor: pointer;
+    font-size: 1vw;
+}
